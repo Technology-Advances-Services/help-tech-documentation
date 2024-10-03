@@ -30,6 +30,8 @@ For the consumers segment, HelpTech offers an easy way to find and hire technici
 
 The web service is developed to contain all the business logic, handling operations for both technicians and consumers, and integrating with the web and mobile application.
 
+<a href="http://helptechservice.runasp.net/swagger/index.html" target="_blank">Web service in production</a>
+
 ### Mobile Application
 
 The mobile application is designed for consumers to facilitate interaction with technicians. Key features include:
